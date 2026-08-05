@@ -1,12 +1,12 @@
 # Hi there, I'm Keerthisri D 👋
 
 <p align="center">
-  <b>Cyber Security & Software Engineering Student</b> | <b>Full-Stack Developer</b>[cite: 1]
+  <b>Cyber Security & Software Engineering Student</b> | <b>Full-Stack Developer</b>
 </p>
 
 <p align="center">
   📍 Chennai, Tamil Nadu, India &nbsp;|&nbsp; 
-  🎓 B.E. CSE (Cybersecurity) @ Rajalakshmi Engineering College[cite: 1]
+  🎓 B.E. CSE (Cybersecurity) @ Rajalakshmi Engineering College
 </p>
 
 ---
