@@ -21,7 +21,7 @@
 
 ### 💼 Experience
 
-#### **Fundtrail Analysis Intern** | *Tamilnadu Cyber Crime Wing HQ*[cite: 1]
+#### **Fundtrail Analysis Intern** | *Tamilnadu Cyber Crime Wing HQ*
 *(June 2026 – July 2026)*
 * Enhanced Python/Flask and D3.js forensic software utilized by police officers to track layered cybercrime money flows.
 * Remediated 28 SAST vulnerabilities and 9 access-control flaws; integrated scrypt hashing, 2FA, and Content Security Policies (CSP).
